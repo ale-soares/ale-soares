@@ -3,8 +3,8 @@
 ## I'm a software developer and application security enthusiast.
 
 - 😄 My pronouns are she/her
-- 🌱 I'm currently learning python and bug bounty hunting
 - 🔭 I’m currently working as a front-end web developer
+- 🌱 I'm currently learning react, unit testing and node
 
 ### Connect with me:
 
