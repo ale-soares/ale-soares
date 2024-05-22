@@ -18,11 +18,6 @@ Using Github to share personal projects, coursework, and general nerdy things ðŸ
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,styledcomponents,react,vue,redux,ts,cs,dotnet,jest,nodejs,github)](https://skillicons.dev)
 
-#### Github Stats:
-
-![](https://raw.githubusercontent.com/ale-soares/ale-soares/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/ale-soares/ale-soares/master/profile-summary-card-output/github_dark/3-stats.svg)
-
 #### Leetcode Progress:
 
 [![alesoares's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ale-soares&theme=dark)](https://github.com/ale-soares/leetcode-stats)
