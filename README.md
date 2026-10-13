@@ -1,4 +1,4 @@
-## Hello, I'm Ale! (She/Her) ｡:゜ ☆｡
+## Hello, I'm Ale! (She/Her)
 
 ### I'm a Software Engineer and a Cybersecurity enthusiast.
 
